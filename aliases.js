@@ -10,4 +10,5 @@ const aliases = (prefix = `src`) => ({
   'app/AppContext': `${prefix}/app/AppContext`,
 });
 
+
 module.exports = aliases;
